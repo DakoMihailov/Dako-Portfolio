@@ -11,7 +11,7 @@ const Introduction = () => {
           <ul className='flex flex-col gap-1 ml-5 list-disc lg:flex-row lg:gap-8 text-neutral-700 dark:text-neutral-400'>
             <li>life-long learner</li>
             <li>
-              Based in United States
+              Based in Bulgaria
             </li>
           </ul>
         </>

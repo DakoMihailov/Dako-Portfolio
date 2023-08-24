@@ -19,7 +19,7 @@ const ProfileHeader = ({ expandMenu, imageSize }: ProfileHeaderProps) => {
       )}
     >
       <Image
-        src='/images/Profile.png'
+        src='/images/profile.png'
         alt='Dako Mihailov'
         width={expandMenu ? 80 : imageSize}
         height={expandMenu ? 80 : imageSize}
