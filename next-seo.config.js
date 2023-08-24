@@ -5,7 +5,6 @@ const defaultSEOConfig = {
   defaultTitle: 'Dako Mihailov - Portfolio',
   description: metaDescription,
   openGraph: {
-    canonical: canonicalUrl,
     title: 'Dako Mihailov - Portfolio',
     description: metaDescription,
     type: 'website',
