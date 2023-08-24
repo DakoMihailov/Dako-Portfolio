@@ -8,7 +8,7 @@ import { CAREERS } from '@/common/constant/careers';
 
 import CareerCard from './CareerCard';
 
-const RESUME_URL = 'https://dakomihailov.vercel.com/Resume.pdf';
+const RESUME_URL = 'https://dakomihailov.vercel.app/Resume.pdf';
 
 const CareerList = () => {
   return (
