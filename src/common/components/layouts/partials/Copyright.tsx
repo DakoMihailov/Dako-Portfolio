@@ -7,7 +7,7 @@ const Copyright = () => {
       <span className='text-red-500 animate-pulse'>❤</span>
       <span>by</span>
       <span className='cursor-pointer hover:dark:text-neutral-400'>
-        Dako Mihailov
+        Dako
       </span>
     </div>
   );
